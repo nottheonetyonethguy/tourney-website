@@ -236,7 +236,7 @@ export default function Home() {
             </tr>
             <tr>
               <td>5</td>
-              <td>Prashant Sharma</td>
+              <td>Priyank Acharya</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
