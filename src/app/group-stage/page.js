@@ -245,7 +245,10 @@ export default function Home() {
 
           </tbody>
         </table>
+        </div>
         <p>&nbsp;&nbsp;</p>
+        <br />
+        <div className={styles.grid}>
         <table>
           <tbody>
             <tr>
@@ -307,6 +310,7 @@ export default function Home() {
               <td>0</td>
               <td>0</td>
             </tr>
+            
           </tbody>
         </table>
       </div>
