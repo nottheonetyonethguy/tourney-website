@@ -242,6 +242,71 @@ export default function Home() {
               <td>0</td>
               <td>0</td>
             </tr>
+
+          </tbody>
+        </table>
+        <p>&nbsp;&nbsp;</p>
+        <table>
+          <tbody>
+            <tr>
+              <th colspan="6">Group 5</th>
+            </tr>
+            <tr>
+              <th>S. No.</th>
+              <th>Name</th>
+              <th>W</th>
+              <th>L</th>
+              <th>D</th>
+              <th>T</th>
+            </tr>
+            <tr>
+              <td>1</td>
+              <td>Prashant Prasar</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>2</td>
+              <td>Sugam Lamsal</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td>Ishan Kafle</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>4</td>
+              <td>Jaya Paudel</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>5</td>
+              <td>Aarya Risal</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+            </tr>
+            <tr>
+              <td>6</td>
+              <td>Sangam Adhikari</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+            </tr>
           </tbody>
         </table>
       </div>
