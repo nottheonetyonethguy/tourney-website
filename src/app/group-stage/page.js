@@ -43,10 +43,10 @@ export default function Home() {
             <tr>
               <td>2</td>
               <td>Sewak Timalsina</td>
+              <td>2</td>
               <td>0</td>
               <td>0</td>
-              <td>0</td>
-              <td>0</td>
+              <td>2</td>
             </tr>
             <tr>
               <td>3</td>
@@ -68,9 +68,9 @@ export default function Home() {
               <td>5</td>
               <td>Krishna Niroula</td>
               <td>0</td>
+              <td>-1</td>
               <td>0</td>
-              <td>0</td>
-              <td>0</td>
+              <td>-1</td>
             </tr>
             <tr>
               <td>6</td>
@@ -107,10 +107,10 @@ export default function Home() {
             <tr>
               <td>2</td>
               <td>Anup Bajgain</td>
+              <td>2</td>
               <td>0</td>
               <td>0</td>
-              <td>0</td>
-              <td>0</td>
+              <td>2</td>
             </tr>
             <tr>
               <td>3</td>
@@ -132,9 +132,9 @@ export default function Home() {
               <td>5</td>
               <td>Milan Khatiwada</td>
               <td>2</td>
+              <td>-1</td>
               <td>0</td>
-              <td>0</td>
-              <td>2</td>
+              <td>1</td>
             </tr>
             <tr>
               <td>6</td>
@@ -229,10 +229,10 @@ export default function Home() {
             <tr>
               <td>1</td>
               <td>Chandan K. Rajak</td>
+              <td>2</td>
               <td>0</td>
               <td>0</td>
-              <td>0</td>
-              <td>0</td>
+              <td>2</td>
             </tr>
             <tr>
               <td>2</td>
@@ -255,15 +255,15 @@ export default function Home() {
               <td>Cosmic Aryal</td>
               <td>0</td>
               <td>0</td>
-              <td>0</td>
-              <td>0</td>
+              <td>1</td>
+              <td>1</td>
             </tr>
             <tr>
               <td>5</td>
               <td>Priyank Acharya</td>
               <td>0</td>
-              <td>0</td>
-              <td>0</td>
+              <td>-1</td>
+              <td>1</td>
               <td>0</td>
             </tr>
             <tr>
