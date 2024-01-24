@@ -36,33 +36,33 @@ export default function Home() {
               <td>1</td>
               <td>Madhusudhan B.</td>
               <td>0</td>
+              <td>1</td>
               <td>0</td>
-              <td>0</td>
-              <td>0</td>
+              <td>-1</td>
             </tr>
             <tr>
               <td>2</td>
               <td>Sewak Timalsina</td>
-              <td>2</td>
+              <td>4</td>
               <td>0</td>
               <td>0</td>
-              <td>2</td>
+              <td>4</td>
             </tr>
             <tr>
               <td>3</td>
               <td>Yogesh Dhami</td>
+              <td>2</td>
+              <td>-1</td>
               <td>0</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
+              <td>1</td>
             </tr>
             <tr>
               <td>4</td>
               <td>Kushal Neupane</td>
+              <td>2</td>
+              <td>-1</td>
               <td>0</td>
-              <td>0</td>
-              <td>0</td>
-              <td>0</td>
+              <td>1</td>
             </tr>
             <tr>
               <td>5</td>
@@ -99,32 +99,32 @@ export default function Home() {
             <tr>
               <td>1</td>
               <td>Shreyas Shrestha</td>
+              <td>2</td>
+              <td>-2</td>
               <td>0</td>
-              <td>-1</td>
               <td>0</td>
-              <td>-1</td>
             </tr>
             <tr>
               <td>2</td>
               <td>Anup Bajgain</td>
-              <td>2</td>
+              <td>6</td>
               <td>0</td>
               <td>0</td>
-              <td>2</td>
+              <td>6</td>
             </tr>
             <tr>
               <td>3</td>
               <td>Sijal Sharma</td>
               <td>0</td>
+              <td>-1</td>
               <td>0</td>
-              <td>0</td>
-              <td>0</td>
+              <td>-1</td>
             </tr>
             <tr>
               <td>4</td>
               <td>Dipesh Paudel</td>
               <td>0</td>
-              <td>0</td>
+              <td>-1</td>
               <td>0</td>
               <td>0</td>
             </tr>
@@ -229,10 +229,10 @@ export default function Home() {
             <tr>
               <td>1</td>
               <td>Chandan K. Rajak</td>
-              <td>2</td>
+              <td>4</td>
               <td>0</td>
               <td>0</td>
-              <td>2</td>
+              <td>4</td>
             </tr>
             <tr>
               <td>2</td>
@@ -254,9 +254,9 @@ export default function Home() {
               <td>4</td>
               <td>Cosmic Aryal</td>
               <td>0</td>
+              <td>-1</td>
+              <td>1</td>
               <td>0</td>
-              <td>1</td>
-              <td>1</td>
             </tr>
             <tr>
               <td>5</td>
